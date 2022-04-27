@@ -1,49 +1,49 @@
-const listBooks = [
+const listaLivros = [
     {
-      title: 'PHP',
-      price: 15
+      titulo: 'PHP',
+      preco: 15
     },
     {
-      title: 'Python',
-      price: 20
+      titulo: 'Python',
+      preco: 20
     },
     {
-      title: 'Rust',
-      price: 22
+      titulo: 'Rust',
+      preco: 22
     },
     {
-      title: 'JavaScript',
-      price: 25
+      titulo: 'JavaScript',
+      preco: 25
     },
     {
-      title: 'Ruby',
-      price: 28
+      titulo: 'Ruby',
+      preco: 28
     },
     {
-      title: 'Java',
-      price: 30
+      titulo: 'Java',
+      preco: 30
     },
     {
-      title: 'C#',
-      price: 33
+      titulo: 'C#',
+      preco: 33
     },
     {
-      title: 'C++',
-      title: 35
+      titulo: 'C++',
+      preco: 35
     },
     {
-      title: 'Scala',
-      price: 40
+      titulo: 'Scala',
+      preco: 40
     },
     {
-      title: 'Go',
-      price: 45
+      titulo: 'Go',
+      preco: 45
     },
     {
-      title: 'Elixir',
-      price: 50
+      titulo: 'Elixir',
+      preco: 50
     }
   ]
   
   
-  module.exports = listaBooks;
+  module.exports = listaLivros
